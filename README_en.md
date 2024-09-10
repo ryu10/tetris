@@ -12,7 +12,8 @@ Tetris represents an educational game designed for the acquisition of programmin
 ### Preparing the Execution Environment
 
 **Mac Environment**
-To initiate the terminal, navigate through Finder → Applications → Utilities → Terminal and execute the following commands. Upon successful installation, the game can be initiated by invoking the specified method.
+
+To open the terminal, navigate through Finder → Applications → Utilities → Terminal and then execute the following commands. Upon successful installation, the game can be initiated by invoking the [provided procedures](https://github.com/seigot/tetris/tree/master#実行方法).
 
 ```bash
 # Install pyqt5 and NumPy
@@ -24,16 +25,22 @@ brew install numpy
 brew install git
 ```
 
-Detailed procedures are documented in `doc/files/install_mac.md`.
+Detailed procedures are documented in [doc/files/install_mac.md](./doc/files/install_mac.md).
 
 **Windows Environment**
+
 Steps to establish a Tetris environment utilizing Windows PowerShell, Windows Subsystem for Linux (WSL), and Docker for Windows are provided.
 
+[Using Windows Powershell](./doc/files/install_windows_powershell.md)<br>
+[Using WSL(Windows Subsystem for Linux)](./doc/files/install_windows_wsl.md)<br>
+[Using Docker for Windows](./doc/files/install_windows.md)<br>
+
 **Ubuntu/JetsonNano Environment**
-Procedures are outlined in `doc/files/install_ubuntu.md`.
+
+Procedures are outlined in [doc/files/install_ubuntu.md](./doc/files/install_ubuntu.md).
 
 **Docker Environment**
-Instructions are available in `docker/README.md`.
+Instructions are available in [docker/README.md](docker/README.md).
 
 ---
 
