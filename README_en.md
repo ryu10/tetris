@@ -52,7 +52,7 @@ Instructions are available in `docker/README.md`.
    python start.py
    ```
 
-**Screenshot** options are also available.
+![Screenshot](doc/pics/screenshot_02.png)
 
 ---
 
@@ -188,6 +188,7 @@ git push # Apply the changes
 **Optional Pull Request Submission**
 Suggestions for revisions to this repository are welcomed. Please refer to related documentation for details on the pull request process.
 
+![Git Commentary](doc/pics/20230115_Git_Commentary.png)
 ---
 
 ### FAQ
