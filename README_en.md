@@ -3,6 +3,7 @@
 Tetris represents an educational game designed for the acquisition of programming skills, wherein players manipulate blocks to compete for scores.
 
 **Resources**
+
 - [Frequently Asked Questions](https://github.com/seigot/tetris/blob/master/doc/files/FAQ.md)<br>
 - [Tutorials](https://github.com/seigot/tetris_game_tutorial)<br>
 - [Tetris_score_server](https://github.com/seigot/tetris_score_server)  
@@ -40,6 +41,7 @@ Steps to establish a Tetris environment utilizing Windows PowerShell, Windows Su
 Procedures are outlined in [doc/files/install_ubuntu.md](./doc/files/install_ubuntu.md).
 
 **Docker Environment**
+
 Instructions are available in [docker/README.md](docker/README.md).
 
 ---
