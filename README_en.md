@@ -2,12 +2,11 @@
 
 Tetris represents an educational game designed for the acquisition of programming skills, wherein players manipulate blocks to compete for scores.
 
-**Resources:**
-- Frequently Asked Questions (FAQ) can be accessed here.
-- The tutorial is available here.
-- The Tetris score server can be found here.
-- The Tetris battle server is accessible here.
-
+**Resources**
+- [Frequently Asked Questions](https://github.com/seigot/tetris/blob/master/doc/files/FAQ.md)<br>
+- [Tutorials](https://github.com/seigot/tetris_game_tutorial)<br>
+- [Tetris_score_server](https://github.com/seigot/tetris_score_server)  
+- [tetris_battle_server](https://github.com/seigot/tetris_battle_server)  
 ---
 
 ### Preparing the Execution Environment
