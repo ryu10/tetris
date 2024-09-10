@@ -1,6 +1,6 @@
 ### Tetris
 
-Tetris represents an educational game designed for the acquisition of programming skills, wherein players manipulate blocks to compete for scores.
+Tetris is an educational game designed to help players develop programming skills. In this game, players manipulate falling blocks, aiming to score points while honing their coding abilities.
 
 **Resources**
 
